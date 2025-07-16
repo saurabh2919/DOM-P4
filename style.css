@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+}
+.box {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: fit-content;
+    width: 90px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.main-cont {
+    padding: 20px;
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    top: 35%;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.timer {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 50px;
+    width: auto;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
